@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "M0RIpfX9zF9NOhsS4O/zDiiFU1SdLcMH7oxvHqZTqCo=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\1.jpg"
+    }
+  ]
+}

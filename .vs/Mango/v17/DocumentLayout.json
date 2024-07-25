@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hungn\\source\\repos\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5D8CD-EDB5-48E2-9D3E-CC42D695A828}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81257781-E2C5-42FF-8E90-9AFBA95807EC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A041040B-5B83-4EFC-899E-58BEC1CC9174}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A041040B-5B83-4EFC-899E-58BEC1CC9174}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A041040B-5B83-4EFC-899E-58BEC1CC9174}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\hungn\\source\\repos\\mango\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A041040B-5B83-4EFC-899E-58BEC1CC9174}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:24:44.081Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Product\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Product\\ProductEdit.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:24:20.73Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:25:18.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:38:30.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Service\\ProductService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:02:02.322Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:47:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\CouponController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:44:23.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Program.cs",
+              "RelativeToolTip": "Mango.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:42:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\appsettings.json",
+              "RelativeToolTip": "Mango.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T12:21:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:38:45.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:24:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:15:33.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAqwIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:21:30.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:23:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T13:23:00.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:21:02.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\hungn\\source\\repos\\Mango\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:20:57.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
